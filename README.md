@@ -40,4 +40,4 @@ somewhere else.
 
 ## License
 
-No license has been chosen yet.
+MIT, see [LICENSE](LICENSE).
